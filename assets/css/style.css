@@ -477,8 +477,10 @@ section {
 }
 
 @media (max-width: 600px) {
-  margin: 0;
+  .about-img {
+      margin: 0; }
 }
+  
 
 /*--------------------------------------------------------------
 # Facts
