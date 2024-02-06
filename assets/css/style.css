@@ -478,14 +478,14 @@ section {
 
 .img-container {
   text-align: center;
-  margin: 0;
+/*   margin: 0; */
 /*   height: 300px; */
 }
 
-@media (max-width: 992px) {
+/* @media (max-width: 992px) {
   .img-container {
       margin: 0; }
-} 
+}  */
   
 
 /*--------------------------------------------------------------
