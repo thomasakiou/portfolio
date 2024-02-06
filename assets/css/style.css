@@ -476,7 +476,7 @@ section {
   margin: 0 0 0 50px;
 }
 
-@media (min-width: 992px) {
+@media (max-width: 600px) {
   margin: 0;
 }
 
