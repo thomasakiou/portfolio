@@ -671,8 +671,6 @@ section {
 .list-icons .list-inline-item i {
   /* color: var(--color1); */
   margin: 0;
-  font-size: 35px;
-  display: flex;
 }
 
 @media (min-width: 992px) {
